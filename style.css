@@ -26,5 +26,7 @@ a.photo:hover img{
 }
 a:hover img {
 	border: 3px solid #034F80;
+	animation: movement 0.2s infinite;
+	-webkit-animation: movement 0.2s infinite;
 }
 
